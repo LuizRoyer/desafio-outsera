@@ -28,6 +28,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 - Required
   1 Node
   2 Docker
+  3 image postgres on docker
 
 Open Table on SQL with command 'docker exec -it ID_IMAGE_DOCKER psql -U local '
 Show Images Docker "Docker ps"
