@@ -9,7 +9,7 @@ export function Routes(app) {
      *  get:
      *    tags:  
      *      - Movies  
-     *    description: Get nominated of category
+     *    description: Obter a lista de filmes indicados por categoria
      *    responses:
      *      200:
      *        description: success

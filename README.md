@@ -21,13 +21,14 @@ More details in public Especificação BackEnd and CSV file
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 
 1. npm i
-2. npm run migration:up
-3. npm run start to run all project
+2. npm run start to run all project
+3. npm run migration:up
 4. npm run dev to run project without docker image
 
 - Required
   1 Node
   2 Docker
+  3 image postgres on docker
 
 Open Table on SQL with command 'docker exec -it ID_IMAGE_DOCKER psql -U local '
 Show Images Docker "Docker ps"

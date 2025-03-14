@@ -9,7 +9,7 @@ export function Routes(app) {
      *  get:
      *    tags:  
      *      - Participants  
-     *    description: Get Champion
+     *    description: Obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido
      *    responses:    
      *      200:
      *        description: success
